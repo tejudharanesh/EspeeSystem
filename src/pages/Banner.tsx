@@ -98,7 +98,7 @@ const Banner: React.FC = () => {
                 <Mail className="text-white" size={24} />
               </div>
               <h4 className="font-bold text-gray-900 mb-2">Email Us</h4>
-              <p className="text-gray-600">service@espeesystem.com </p>
+              <p className="text-gray-600">chethansc@espeesystem.com</p>
             </div>
 
             {/* Address */}
@@ -108,9 +108,9 @@ const Banner: React.FC = () => {
               </div>
               <h4 className="font-bold text-gray-900 mb-2">Visit Us</h4>
               <p className="text-gray-600 text-sm">
-                #32, Chinnas Residency Basement, Sheshadri Road,
+                #32, Chinnas Residency, Sheshadri Road,
                 <br className="hidden md:inline" />
-                Ananda Rao Circle, Bangalore
+                Ananda Rao Circle, Bangalore 560009
               </p>
             </div>
           </div>
